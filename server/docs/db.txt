@@ -1,0 +1,15 @@
+
+・注意
+スキーマ変更した際はmodels.pyとtypes.pyの両方に反映
+マイグレーションの際は、shm walファイルも消すことを忘れずに
+
+・マイグレーション
+\photo_app\server> sqlite3 dev.db
+.read migrations.sql
+
+
+・sqliteのSELECT文
+\photo_app\server> sqlite3 dev.db
+sqlite> .tables
+album        album_photo  photo        user
+sqlite> SELECT * FROM photo;

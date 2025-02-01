@@ -1,0 +1,30 @@
+
+・トークン検証後に得られる情報のサンプル
+{
+  "iss": "https://securetoken.google.com/<PROJECT_ID>",  // トークン発行者
+  "aud": "<PROJECT_ID>",  // Firebase プロジェクト ID
+  "auth_time": 1609459200,  // トークンが発行された時刻（UNIXタイムスタンプ）
+  "user_id": "user123",  // ユーザーの一意なID（UID）
+  "sub": "user123",  // ユーザーのサブ（一般的に UID と同じ）
+  "iat": 1609459200,  // トークン発行時刻（UNIXタイムスタンプ）
+  "exp": 1609462800,  // トークンの有効期限（UNIXタイムスタンプ）
+  "email": "user@example.com",  // ユーザーのメールアドレス
+  "email_verified": true,  // メールアドレスの確認状態
+  "firebase": {
+    "sign_in_provider": "password",  // サインイン方法（この例ではパスワード）
+    "identities": {
+      "email": ["user@example.com"]  // メールアドレスでの認証情報
+    }
+  },
+  "name": "John Doe",  // ユーザー名（設定されていれば）
+  "picture": "https://example.com/profile_picture.jpg"  // プロフィール画像のURL（設定されていれば）
+}
+
+・ユーザーテーブルの例
+id(別に)
+user_id
+email
+email_verified
+firebase.sign_in_provider
+name
+picture_url

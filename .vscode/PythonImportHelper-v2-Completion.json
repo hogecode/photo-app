@@ -1,0 +1,1041 @@
+[
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "importPath": "flatted",
+        "description": "flatted",
+        "isExtraImport": true,
+        "detail": "flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "importPath": "flatted",
+        "description": "flatted",
+        "isExtraImport": true,
+        "detail": "flatted",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "cloudinary",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cloudinary",
+        "description": "cloudinary",
+        "detail": "cloudinary",
+        "documentation": {}
+    },
+    {
+        "label": "cloudinary.uploader",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cloudinary.uploader",
+        "description": "cloudinary.uploader",
+        "detail": "cloudinary.uploader",
+        "documentation": {}
+    },
+    {
+        "label": "upload",
+        "importPath": "cloudinary.uploader",
+        "description": "cloudinary.uploader",
+        "isExtraImport": true,
+        "detail": "cloudinary.uploader",
+        "documentation": {}
+    },
+    {
+        "label": "get_user",
+        "importPath": "app.services.UserService",
+        "description": "app.services.UserService",
+        "isExtraImport": true,
+        "detail": "app.services.UserService",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "importPath": "app.services.UserService",
+        "description": "app.services.UserService",
+        "isExtraImport": true,
+        "detail": "app.services.UserService",
+        "documentation": {}
+    },
+    {
+        "label": "delete_user",
+        "importPath": "app.services.UserService",
+        "description": "app.services.UserService",
+        "isExtraImport": true,
+        "detail": "app.services.UserService",
+        "documentation": {}
+    },
+    {
+        "label": "get_user",
+        "importPath": "app.services.UserService",
+        "description": "app.services.UserService",
+        "isExtraImport": true,
+        "detail": "app.services.UserService",
+        "documentation": {}
+    },
+    {
+        "label": "create_user_from_firebase_token",
+        "importPath": "app.services.UserService",
+        "description": "app.services.UserService",
+        "isExtraImport": true,
+        "detail": "app.services.UserService",
+        "documentation": {}
+    },
+    {
+        "label": "validate_and_upload_image",
+        "importPath": "app.services.PhotoService",
+        "description": "app.services.PhotoService",
+        "isExtraImport": true,
+        "detail": "app.services.PhotoService",
+        "documentation": {}
+    },
+    {
+        "label": "save_image_to_db",
+        "importPath": "app.services.PhotoService",
+        "description": "app.services.PhotoService",
+        "isExtraImport": true,
+        "detail": "app.services.PhotoService",
+        "documentation": {}
+    },
+    {
+        "label": "replace_photo",
+        "importPath": "app.services.PhotoService",
+        "description": "app.services.PhotoService",
+        "isExtraImport": true,
+        "detail": "app.services.PhotoService",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_photos",
+        "importPath": "app.services.PhotoService",
+        "description": "app.services.PhotoService",
+        "isExtraImport": true,
+        "detail": "app.services.PhotoService",
+        "documentation": {}
+    },
+    {
+        "label": "soft_delete_photo",
+        "importPath": "app.services.PhotoService",
+        "description": "app.services.PhotoService",
+        "isExtraImport": true,
+        "detail": "app.services.PhotoService",
+        "documentation": {}
+    },
+    {
+        "label": "hard_delete_photo",
+        "importPath": "app.services.PhotoService",
+        "description": "app.services.PhotoService",
+        "isExtraImport": true,
+        "detail": "app.services.PhotoService",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "tortoise.exceptions",
+        "description": "tortoise.exceptions",
+        "isExtraImport": true,
+        "detail": "tortoise.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "DoesNotExist",
+        "importPath": "tortoise.exceptions",
+        "description": "tortoise.exceptions",
+        "isExtraImport": true,
+        "detail": "tortoise.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "DoesNotExist",
+        "importPath": "tortoise.exceptions",
+        "description": "tortoise.exceptions",
+        "isExtraImport": true,
+        "detail": "tortoise.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "DoesNotExist",
+        "importPath": "tortoise.exceptions",
+        "description": "tortoise.exceptions",
+        "isExtraImport": true,
+        "detail": "tortoise.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "PhotosResponse",
+        "importPath": "app.types",
+        "description": "app.types",
+        "isExtraImport": true,
+        "detail": "app.types",
+        "documentation": {}
+    },
+    {
+        "label": "UserListResponse",
+        "importPath": "app.types",
+        "description": "app.types",
+        "isExtraImport": true,
+        "detail": "app.types",
+        "documentation": {}
+    },
+    {
+        "label": "UserBase",
+        "importPath": "app.types",
+        "description": "app.types",
+        "isExtraImport": true,
+        "detail": "app.types",
+        "documentation": {}
+    },
+    {
+        "label": "cloudinary_url",
+        "importPath": "cloudinary.utils",
+        "description": "cloudinary.utils",
+        "isExtraImport": true,
+        "detail": "cloudinary.utils",
+        "documentation": {}
+    },
+    {
+        "label": "BytesIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Photo",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "firebase_admin",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "firebase_admin",
+        "description": "firebase_admin",
+        "detail": "firebase_admin",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "importPath": "firebase_admin",
+        "description": "firebase_admin",
+        "isExtraImport": true,
+        "detail": "firebase_admin",
+        "documentation": {}
+    },
+    {
+        "label": "credentials",
+        "importPath": "firebase_admin",
+        "description": "firebase_admin",
+        "isExtraImport": true,
+        "detail": "firebase_admin",
+        "documentation": {}
+    },
+    {
+        "label": "Tortoise",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "importPath": "app.settings",
+        "description": "app.settings",
+        "isExtraImport": true,
+        "detail": "app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CURRENT_ENV",
+        "importPath": "app.settings",
+        "description": "app.settings",
+        "isExtraImport": true,
+        "detail": "app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.routers.ImageRouter",
+        "description": "app.routers.ImageRouter",
+        "isExtraImport": true,
+        "detail": "app.routers.ImageRouter",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.routers.UserRouter",
+        "description": "app.routers.UserRouter",
+        "isExtraImport": true,
+        "detail": "app.routers.UserRouter",
+        "documentation": {}
+    },
+    {
+        "label": "init_db",
+        "importPath": "app.db",
+        "description": "app.db",
+        "isExtraImport": true,
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "close_db",
+        "importPath": "app.db",
+        "description": "app.db",
+        "isExtraImport": true,
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "SecuritySchemeType",
+        "importPath": "fastapi.openapi.models",
+        "description": "fastapi.openapi.models",
+        "isExtraImport": true,
+        "detail": "fastapi.openapi.models",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "tortoise.models",
+        "description": "tortoise.models",
+        "isExtraImport": true,
+        "detail": "tortoise.models",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "tortoise.models",
+        "description": "tortoise.models",
+        "isExtraImport": true,
+        "detail": "tortoise.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "importPath": "orator.migrations",
+        "description": "orator.migrations",
+        "isExtraImport": true,
+        "detail": "orator.migrations",
+        "documentation": {}
+    },
+    {
+        "label": "DatabaseManager",
+        "importPath": "orator",
+        "description": "orator",
+        "isExtraImport": true,
+        "detail": "orator",
+        "documentation": {}
+    },
+    {
+        "label": "_Known",
+        "kind": 6,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _Known:\n    def __init__(self):\n        self.key = []\n        self.value = []\nclass _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "_String",
+        "kind": 6,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0\n    for _ in value:\n        keys.append(i)\n        i += 1\n    return keys",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "kind": 2,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "def parse(value, *args, **kwargs):\n    json = _json.loads(value, *args, **kwargs)\n    wrapped = []\n    for value in json:\n        wrapped.append(_wrap(value))\n    input = []\n    for value in wrapped:\n        if isinstance(value, _String):\n            input.append(value.value)\n        else:",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "def stringify(value, *args, **kwargs):\n    known = _Known()\n    input = []\n    output = []\n    i = int(_index(known, input, value))\n    while i < len(input):\n        output.append(_transform(known, input, input[i]))\n        i += 1\n    return _json.dumps(output, *args, **kwargs)",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "def stringify(value):\n    return _stringify(value, separators=(',', ':'))\nassert stringify([None, None]) == '[[null,null]]'\na = []\no = {}\nassert stringify(a) == '[[]]'\nassert stringify(o) == '[{}]'\na.append(a)\no['o'] = o\nassert stringify(a) == '[[\"0\"]]'",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "a = []\no = {}\nassert stringify(a) == '[[]]'\nassert stringify(o) == '[{}]'\na.append(a)\no['o'] = o\nassert stringify(a) == '[[\"0\"]]'\nassert stringify(o) == '[{\"o\":\"0\"}]'\nb = parse(stringify(a))\nassert isinstance(b, list) and b[0] == b",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "o = {}\nassert stringify(a) == '[[]]'\nassert stringify(o) == '[{}]'\na.append(a)\no['o'] = o\nassert stringify(a) == '[[\"0\"]]'\nassert stringify(o) == '[{\"o\":\"0\"}]'\nb = parse(stringify(a))\nassert isinstance(b, list) and b[0] == b\na.append(1)",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['o']",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "o['o'] = o\nassert stringify(a) == '[[\"0\"]]'\nassert stringify(o) == '[{\"o\":\"0\"}]'\nb = parse(stringify(a))\nassert isinstance(b, list) and b[0] == b\na.append(1)\na.append('two')\na.append(True)\no['one'] = 1\no['two'] = 'two'",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "b = parse(stringify(a))\nassert isinstance(b, list) and b[0] == b\na.append(1)\na.append('two')\na.append(True)\no['one'] = 1\no['two'] = 'two'\no['three'] = True\nassert stringify(a) == '[[\"0\",1,\"1\",true],\"two\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true},\"two\"]'",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['one']",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "o['one'] = 1\no['two'] = 'two'\no['three'] = True\nassert stringify(a) == '[[\"0\",1,\"1\",true],\"two\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true},\"two\"]'\na.append(o)\no['a'] = a\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\"}]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\"},\"two\",[\"2\",1,\"1\",true,\"0\"]]'\na.append({'test': 'OK'})",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['two']",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "o['two'] = 'two'\no['three'] = True\nassert stringify(a) == '[[\"0\",1,\"1\",true],\"two\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true},\"two\"]'\na.append(o)\no['a'] = a\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\"}]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\"},\"two\",[\"2\",1,\"1\",true,\"0\"]]'\na.append({'test': 'OK'})\na.append([1, 2, 3])",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['three']",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "o['three'] = True\nassert stringify(a) == '[[\"0\",1,\"1\",true],\"two\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true},\"two\"]'\na.append(o)\no['a'] = a\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\"}]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\"},\"two\",[\"2\",1,\"1\",true,\"0\"]]'\na.append({'test': 'OK'})\na.append([1, 2, 3])\no['test'] = {'test': 'OK'}",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['a']",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "o['a'] = a\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\"}]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\"},\"two\",[\"2\",1,\"1\",true,\"0\"]]'\na.append({'test': 'OK'})\na.append([1, 2, 3])\no['test'] = {'test': 'OK'}\no['array'] = [1, 2, 3]\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\",\"3\",\"4\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\",\"test\":\"3\",\"array\":\"4\"},{\"test\":\"5\"},[1,2,3],\"OK\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\",\"test\":\"3\",\"array\":\"4\"},\"two\",[\"2\",1,\"1\",true,\"0\",\"3\",\"4\"],{\"test\":\"5\"},[1,2,3],\"OK\"]'\na2 = parse(stringify(a));",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['test']",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "o['test'] = {'test': 'OK'}\no['array'] = [1, 2, 3]\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\",\"3\",\"4\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\",\"test\":\"3\",\"array\":\"4\"},{\"test\":\"5\"},[1,2,3],\"OK\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\",\"test\":\"3\",\"array\":\"4\"},\"two\",[\"2\",1,\"1\",true,\"0\",\"3\",\"4\"],{\"test\":\"5\"},[1,2,3],\"OK\"]'\na2 = parse(stringify(a));\no2 = parse(stringify(o));\nassert a2[0] == a2\nassert o2['o'] == o2\nassert a2[1] == 1 and a2[2] == 'two' and a2[3] == True and isinstance(a2[4], dict)\nassert a2[4] == a2[4]['o'] and a2 == a2[4]['o']['a']",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['array']",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "o['array'] = [1, 2, 3]\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\",\"3\",\"4\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\",\"test\":\"3\",\"array\":\"4\"},{\"test\":\"5\"},[1,2,3],\"OK\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\",\"test\":\"3\",\"array\":\"4\"},\"two\",[\"2\",1,\"1\",true,\"0\",\"3\",\"4\"],{\"test\":\"5\"},[1,2,3],\"OK\"]'\na2 = parse(stringify(a));\no2 = parse(stringify(o));\nassert a2[0] == a2\nassert o2['o'] == o2\nassert a2[1] == 1 and a2[2] == 'two' and a2[3] == True and isinstance(a2[4], dict)\nassert a2[4] == a2[4]['o'] and a2 == a2[4]['o']['a']\nstr = parse('[{\"prop\":\"1\",\"a\":\"2\",\"b\":\"3\"},{\"value\":123},[\"4\",\"5\"],{\"e\":\"6\",\"t\":\"7\",\"p\":4},{},{\"b\":\"8\"},\"f\",{\"a\":\"9\"},[\"10\"],\"sup\",{\"a\":1,\"d\":2,\"c\":\"7\",\"z\":\"11\",\"h\":1},{\"g\":2,\"a\":\"7\",\"b\":\"12\",\"f\":6},{\"r\":4,\"u\":\"7\",\"c\":5}]')",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "a2",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "a2 = parse(stringify(a));\no2 = parse(stringify(o));\nassert a2[0] == a2\nassert o2['o'] == o2\nassert a2[1] == 1 and a2[2] == 'two' and a2[3] == True and isinstance(a2[4], dict)\nassert a2[4] == a2[4]['o'] and a2 == a2[4]['o']['a']\nstr = parse('[{\"prop\":\"1\",\"a\":\"2\",\"b\":\"3\"},{\"value\":123},[\"4\",\"5\"],{\"e\":\"6\",\"t\":\"7\",\"p\":4},{},{\"b\":\"8\"},\"f\",{\"a\":\"9\"},[\"10\"],\"sup\",{\"a\":1,\"d\":2,\"c\":\"7\",\"z\":\"11\",\"h\":1},{\"g\":2,\"a\":\"7\",\"b\":\"12\",\"f\":6},{\"r\":4,\"u\":\"7\",\"c\":5}]')\nassert str['b']['t']['a'] == 'sup' and str['a'][1]['b'][0]['c'] == str['b']['t']\noo = parse('[{\"a\":\"1\",\"b\":\"0\",\"c\":\"2\"},{\"aa\":\"3\"},{\"ca\":\"4\",\"cb\":\"5\",\"cc\":\"6\",\"cd\":\"7\",\"ce\":\"8\",\"cf\":\"9\"},{\"aaa\":\"10\"},{\"caa\":\"4\"},{\"cba\":\"5\"},{\"cca\":\"2\"},{\"cda\":\"4\"},\"value2\",\"value3\",\"value1\"]');\nassert oo['a']['aa']['aaa'] == 'value1' and oo == oo['b'] and oo['c']['ca']['caa'] == oo['c']['ca']",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o2",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "o2 = parse(stringify(o));\nassert a2[0] == a2\nassert o2['o'] == o2\nassert a2[1] == 1 and a2[2] == 'two' and a2[3] == True and isinstance(a2[4], dict)\nassert a2[4] == a2[4]['o'] and a2 == a2[4]['o']['a']\nstr = parse('[{\"prop\":\"1\",\"a\":\"2\",\"b\":\"3\"},{\"value\":123},[\"4\",\"5\"],{\"e\":\"6\",\"t\":\"7\",\"p\":4},{},{\"b\":\"8\"},\"f\",{\"a\":\"9\"},[\"10\"],\"sup\",{\"a\":1,\"d\":2,\"c\":\"7\",\"z\":\"11\",\"h\":1},{\"g\":2,\"a\":\"7\",\"b\":\"12\",\"f\":6},{\"r\":4,\"u\":\"7\",\"c\":5}]')\nassert str['b']['t']['a'] == 'sup' and str['a'][1]['b'][0]['c'] == str['b']['t']\noo = parse('[{\"a\":\"1\",\"b\":\"0\",\"c\":\"2\"},{\"aa\":\"3\"},{\"ca\":\"4\",\"cb\":\"5\",\"cc\":\"6\",\"cd\":\"7\",\"ce\":\"8\",\"cf\":\"9\"},{\"aaa\":\"10\"},{\"caa\":\"4\"},{\"cba\":\"5\"},{\"cca\":\"2\"},{\"cda\":\"4\"},\"value2\",\"value3\",\"value1\"]');\nassert oo['a']['aa']['aaa'] == 'value1' and oo == oo['b'] and oo['c']['ca']['caa'] == oo['c']['ca']\nprint('OK')",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "str",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "str = parse('[{\"prop\":\"1\",\"a\":\"2\",\"b\":\"3\"},{\"value\":123},[\"4\",\"5\"],{\"e\":\"6\",\"t\":\"7\",\"p\":4},{},{\"b\":\"8\"},\"f\",{\"a\":\"9\"},[\"10\"],\"sup\",{\"a\":1,\"d\":2,\"c\":\"7\",\"z\":\"11\",\"h\":1},{\"g\":2,\"a\":\"7\",\"b\":\"12\",\"f\":6},{\"r\":4,\"u\":\"7\",\"c\":5}]')\nassert str['b']['t']['a'] == 'sup' and str['a'][1]['b'][0]['c'] == str['b']['t']\noo = parse('[{\"a\":\"1\",\"b\":\"0\",\"c\":\"2\"},{\"aa\":\"3\"},{\"ca\":\"4\",\"cb\":\"5\",\"cc\":\"6\",\"cd\":\"7\",\"ce\":\"8\",\"cf\":\"9\"},{\"aaa\":\"10\"},{\"caa\":\"4\"},{\"cba\":\"5\"},{\"cca\":\"2\"},{\"cda\":\"4\"},\"value2\",\"value3\",\"value1\"]');\nassert oo['a']['aa']['aaa'] == 'value1' and oo == oo['b'] and oo['c']['ca']['caa'] == oo['c']['ca']\nprint('OK')",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "oo",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "oo = parse('[{\"a\":\"1\",\"b\":\"0\",\"c\":\"2\"},{\"aa\":\"3\"},{\"ca\":\"4\",\"cb\":\"5\",\"cc\":\"6\",\"cd\":\"7\",\"ce\":\"8\",\"cf\":\"9\"},{\"aaa\":\"10\"},{\"caa\":\"4\"},{\"cba\":\"5\"},{\"cca\":\"2\"},{\"cda\":\"4\"},\"value2\",\"value3\",\"value1\"]');\nassert oo['a']['aa']['aaa'] == 'value1' and oo == oo['b'] and oo['c']['ca']['caa'] == oo['c']['ca']\nprint('OK')",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "server.app.routers.ImageRouter",
+        "description": "server.app.routers.ImageRouter",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/api/images\",  # URLパスのプリフィックス\n    tags=[\"Images\"]    # Swagger UIでのタグ\n)\n# ToDo: Depends(get_user)でユーザーIDとURLをDBに保存\n# 画像のアップロードを処理する関数\n@router.post(\"/upload\")\nasync def upload_image(\n    file: UploadFile = File(...), user_id: str = Depends(get_user)\n):",
+        "detail": "server.app.routers.ImageRouter",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "server.app.routers.UserRouter",
+        "description": "server.app.routers.UserRouter",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/api/user\",  # URLパスのプリフィックス\n    tags=[\"User\"]    # Swagger UIでのタグ\n)\n@router.post(\"/register\")\nasync def register_user(token: str = Depends(oauth2_scheme)):\n    \"\"\"\n    FirebaseのIDトークンを使ってユーザーを登録するエンドポイント\n    - token: Authorization ヘッダーから受け取るFirebase IDトークン\n    \"\"\"",
+        "detail": "server.app.routers.UserRouter",
+        "documentation": {}
+    },
+    {
+        "label": "upload_result",
+        "kind": 5,
+        "importPath": "server.app.services.cloudinary",
+        "description": "server.app.services.cloudinary",
+        "peekOfCode": "upload_result = cloudinary.uploader.upload(\n    \"https://res.cloudinary.com/demo/image/upload/getting-started/shoes.jpg\",\n    public_id=\"shoes\",\n)\nprint(upload_result[\"secure_url\"])\n# Optimize delivery by resizing and applying auto-format and auto-quality\noptimize_url, _ = cloudinary_url(\"shoes\", fetch_format=\"auto\", quality=\"auto\")\nprint(optimize_url)\n# Transform the image: auto-crop to square aspect_ratio\nauto_crop_url, _ = cloudinary_url(",
+        "detail": "server.app.services.cloudinary",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "kind": 5,
+        "importPath": "server.app.services.UserService",
+        "description": "server.app.services.UserService",
+        "peekOfCode": "oauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"token\")\n# Firebase IDトークンを検証してfirebaseユーザー情報を取得する関数\nasync def get_firebase_user(token: str):\n    try:\n        # Firebaseでトークンを検証\n        decoded_token = auth.verify_id_token(token)\n        return decoded_token\n    except Exception:\n        raise HTTPException(\n            status_code=status.HTTP_401_UNAUTHORIZED,",
+        "detail": "server.app.services.UserService",
+        "documentation": {}
+    },
+    {
+        "label": "db_config",
+        "kind": 5,
+        "importPath": "server.app.db",
+        "description": "server.app.db",
+        "peekOfCode": "db_config = DATABASES[CURRENT_ENV]\nDATABASE_URL = db_config['url']\n# Tortoise ORMの初期化\nasync def init_db():\n    await Tortoise.init(\n        db_url=DATABASE_URL,  # データベースのURL\n        modules={'models': ['app.models']}  # モデルのモジュールパス\n    )\n    await Tortoise.generate_schemas()  # スキーマの生成\n# リクエストごとの接続開始",
+        "detail": "server.app.db",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "server.app.db",
+        "description": "server.app.db",
+        "peekOfCode": "DATABASE_URL = db_config['url']\n# Tortoise ORMの初期化\nasync def init_db():\n    await Tortoise.init(\n        db_url=DATABASE_URL,  # データベースのURL\n        modules={'models': ['app.models']}  # モデルのモジュールパス\n    )\n    await Tortoise.generate_schemas()  # スキーマの生成\n# リクエストごとの接続開始\nasync def close_db():",
+        "detail": "server.app.db",
+        "documentation": {}
+    },
+    {
+        "label": "cred_path",
+        "kind": 5,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "cred_path = os.getenv(\"GOOGLE_APPLICATION_CREDENTIALS\")\nif cred_path:\n    cred = credentials.Certificate(cred_path)\n    firebase_admin.initialize_app(cred)\nelse:\n    print(\"認証情報のパスが設定されていません。\")\n# FastAPI アプリケーションの作成\napp = FastAPI(\n    title=\"Photo App\",  # アプリケーション名\n    description=\"Hello, hello\",  # アプリケーションの説明",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "app = FastAPI(\n    title=\"Photo App\",  # アプリケーション名\n    description=\"Hello, hello\",  # アプリケーションの説明\n)\n# CORS の設定\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],  # 本番環境では変える\n    allow_credentials=True,\n    allow_methods=[\"*\"],  # 全ての HTTP メソッドを許可",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigModel",
+        "kind": 6,
+        "importPath": "server.app.models",
+        "description": "server.app.models",
+        "peekOfCode": "class ConfigModel(Model):\n    class Meta:\n        abstract = True  # 抽象基底クラスにする\nclass User(Model):\n    uid = fields.CharField(max_length=255, unique=True)  # Firebase UID\n    email = fields.CharField(max_length=255, unique=True)\n    email_verified = fields.BooleanField()\n    sign_in_provider = fields.CharField(max_length=255, null=True)  \n    upload_count = fields.IntField(default=0)\n    created_at = fields.DatetimeField(auto_now_add=True)",
+        "detail": "server.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "server.app.models",
+        "description": "server.app.models",
+        "peekOfCode": "class User(Model):\n    uid = fields.CharField(max_length=255, unique=True)  # Firebase UID\n    email = fields.CharField(max_length=255, unique=True)\n    email_verified = fields.BooleanField()\n    sign_in_provider = fields.CharField(max_length=255, null=True)  \n    upload_count = fields.IntField(default=0)\n    created_at = fields.DatetimeField(auto_now_add=True)\n    updated_at = fields.DatetimeField(auto_now=True)\n    class Meta:\n        table = \"user\"",
+        "detail": "server.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Photo",
+        "kind": 6,
+        "importPath": "server.app.models",
+        "description": "server.app.models",
+        "peekOfCode": "class Photo(Model):\n    user = fields.ForeignKeyField(\"models.User\", related_name=\"photos\")\n    url = fields.CharField(max_length=255)\n    title = fields.CharField(max_length=255)\n    is_deleted = fields.BooleanField(default=False)\n    created_at = fields.DatetimeField(auto_now_add=True)\n    updated_at = fields.DatetimeField(auto_now=True) \n    class Meta:\n        table = \"photo\"\nclass Album(ConfigModel):",
+        "detail": "server.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Album",
+        "kind": 6,
+        "importPath": "server.app.models",
+        "description": "server.app.models",
+        "peekOfCode": "class Album(ConfigModel):\n    user = fields.ForeignKeyField(\"models.User\", related_name=\"albums\")\n    name = fields.CharField(max_length=255)\n    title = fields.CharField(max_length=255)\n    description = fields.TextField(null=True)\n    created_at = fields.DatetimeField(auto_now_add=True)\n    updated_at = fields.DatetimeField(auto_now=True)\n    class Meta:\n        table = \"album\"\nclass AlbumPhoto(ConfigModel):",
+        "detail": "server.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "AlbumPhoto",
+        "kind": 6,
+        "importPath": "server.app.models",
+        "description": "server.app.models",
+        "peekOfCode": "class AlbumPhoto(ConfigModel):\n    album = fields.ForeignKeyField(\"models.Album\", related_name=\"album_photos\")\n    photo = fields.ForeignKeyField(\"models.Photo\", related_name=\"album_photos\")\n    created_at = fields.DatetimeField(auto_now_add=True)\n    class Meta:\n        table = \"album_photo\"",
+        "detail": "server.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "server.app.settings",
+        "description": "server.app.settings",
+        "peekOfCode": "DATABASES = {\n    \"development\": {\n        \"url\": \"sqlite://dev.db\",  # SQLiteのURL形式\n    },\n    \"production\": {\n        \"url\": \"postgres://db_user:db_password@localhost:5432/dev_db\",\n    },\n}\n# 現在の環境（開発、テスト、本番など）\nCURRENT_ENV = os.getenv(\"APP_ENV\", \"development\")  # 環境変数で切り替える",
+        "detail": "server.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CURRENT_ENV",
+        "kind": 5,
+        "importPath": "server.app.settings",
+        "description": "server.app.settings",
+        "peekOfCode": "CURRENT_ENV = os.getenv(\"APP_ENV\", \"development\")  # 環境変数で切り替える",
+        "detail": "server.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "UserBase",
+        "kind": 6,
+        "importPath": "server.app.types",
+        "description": "server.app.types",
+        "peekOfCode": "class UserBase(BaseModel):\n    uid: str  # Firebase UID\n    email: str\n    email_verified: bool\n    sign_in_provider: Optional[str] = None\n    upload_count: int\n    created_at: datetime\n    updated_at: datetime\n    class Config:\n        orm_mode = True  # Tortoise ORM と連携するために必要",
+        "detail": "server.app.types",
+        "documentation": {}
+    },
+    {
+        "label": "PhotoBase",
+        "kind": 6,
+        "importPath": "server.app.types",
+        "description": "server.app.types",
+        "peekOfCode": "class PhotoBase(BaseModel):\n    user: int  # 外部キーが参照するユーザーのID\n    url: str\n    title: str\n    is_deleted: bool\n    created_at: datetime\n    updated_at: datetime\n    class Config:\n        orm_mode = True\n        from_attributes = True  # Tortoise ORMとの変換に必要",
+        "detail": "server.app.types",
+        "documentation": {}
+    },
+    {
+        "label": "PhotoResponse",
+        "kind": 6,
+        "importPath": "server.app.types",
+        "description": "server.app.types",
+        "peekOfCode": "class PhotoResponse(BaseModel):\n    id: int\n    url: str\n    title: str\n    class Config:\n        orm_mode = True\nclass PhotosResponse(BaseModel):\n    photos: List[PhotoResponse]\n# AlbumのPydanticモデル\nclass AlbumBase(BaseModel):",
+        "detail": "server.app.types",
+        "documentation": {}
+    },
+    {
+        "label": "PhotosResponse",
+        "kind": 6,
+        "importPath": "server.app.types",
+        "description": "server.app.types",
+        "peekOfCode": "class PhotosResponse(BaseModel):\n    photos: List[PhotoResponse]\n# AlbumのPydanticモデル\nclass AlbumBase(BaseModel):\n    user_id: int\n    name: str\n    title: str\n    description: Optional[str] = None\n    created_at: datetime\n    updated_at: datetime",
+        "detail": "server.app.types",
+        "documentation": {}
+    },
+    {
+        "label": "AlbumBase",
+        "kind": 6,
+        "importPath": "server.app.types",
+        "description": "server.app.types",
+        "peekOfCode": "class AlbumBase(BaseModel):\n    user_id: int\n    name: str\n    title: str\n    description: Optional[str] = None\n    created_at: datetime\n    updated_at: datetime\n    class Config:\n        orm_mode = True\n        from_attributes = True",
+        "detail": "server.app.types",
+        "documentation": {}
+    },
+    {
+        "label": "AlbumPhotoBase",
+        "kind": 6,
+        "importPath": "server.app.types",
+        "description": "server.app.types",
+        "peekOfCode": "class AlbumPhotoBase(BaseModel):\n    album_id: int\n    photo_id: int\n    created_at: datetime\n    class Config:\n        orm_mode = True\n        from_attributes = True\n# Userのリストを返すためのPydanticモデル\nclass UserListResponse(BaseModel):\n    users: List[UserBase]",
+        "detail": "server.app.types",
+        "documentation": {}
+    },
+    {
+        "label": "UserListResponse",
+        "kind": 6,
+        "importPath": "server.app.types",
+        "description": "server.app.types",
+        "peekOfCode": "class UserListResponse(BaseModel):\n    users: List[UserBase]",
+        "detail": "server.app.types",
+        "documentation": {}
+    },
+    {
+        "label": "CreateAllTables",
+        "kind": 6,
+        "importPath": "server.dump.migrations.2024_11_24_init",
+        "description": "server.dump.migrations.2024_11_24_init",
+        "peekOfCode": "class CreateAllTables(Migration):\n    def up(self):\n        # Create 'users' table\n        with self.schema.create('users') as table:\n            table.increments('id')\n            table.string('email').unique()\n            table.string('oauthProvider').nullable()\n            table.datetime('lastLogin')\n            table.integer('uploadCount').default(0)\n            table.timestamps()",
+        "detail": "server.dump.migrations.2024_11_24_init",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "server.dump.config",
+        "description": "server.dump.config",
+        "peekOfCode": "DATABASE_URL = \"sqlite://db.sqlite3\"\nTORTOISE_ORM = {\n    \"connections\": {\n        \"default\": DATABASE_URL,\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"app.models\"],  # モデルのモジュール名\n            \"default_connection\": \"default\",\n        }",
+        "detail": "server.dump.config",
+        "documentation": {}
+    },
+    {
+        "label": "TORTOISE_ORM",
+        "kind": 5,
+        "importPath": "server.dump.config",
+        "description": "server.dump.config",
+        "peekOfCode": "TORTOISE_ORM = {\n    \"connections\": {\n        \"default\": DATABASE_URL,\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"app.models\"],  # モデルのモジュール名\n            \"default_connection\": \"default\",\n        }\n    }",
+        "detail": "server.dump.config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "server.dump.config2",
+        "description": "server.dump.config2",
+        "peekOfCode": "config = {\n    'sqlite': {\n        'driver': 'sqlite',\n        'database': './database.db',  # SQLiteファイルのパス\n        'prefix': '',\n    }\n}\ndb = DatabaseManager(config)",
+        "detail": "server.dump.config2",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "server.dump.config2",
+        "description": "server.dump.config2",
+        "peekOfCode": "db = DatabaseManager(config)",
+        "detail": "server.dump.config2",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "server.dump.models",
+        "description": "server.dump.models",
+        "peekOfCode": "class User(Model):\n    id = fields.IntField(pk=True)\n    email = fields.CharField(max_length=255, unique=True)\n    oauth_provider = fields.CharField(max_length=255, null=True)\n    last_login = fields.DatetimeField()\n    upload_count = fields.IntField(default=0)\n    created_at = fields.DatetimeField(auto_now_add=True)\n    updated_at = fields.DatetimeField(auto_now=True)\n    photos = fields.ReverseRelation[\"Photo\"]\n    albums = fields.ReverseRelation[\"Album\"]",
+        "detail": "server.dump.models",
+        "documentation": {}
+    },
+    {
+        "label": "Photo",
+        "kind": 6,
+        "importPath": "server.dump.models",
+        "description": "server.dump.models",
+        "peekOfCode": "class Photo(Model):\n    id = fields.IntField(pk=True)\n    user = fields.ForeignKeyField(\"models.User\", related_name=\"photos\")\n    url = fields.CharField(max_length=255)\n    title = fields.CharField(max_length=255)\n    description = fields.TextField(null=True)\n    is_deleted = fields.BooleanField(default=False)\n    created_at = fields.DatetimeField(auto_now_add=True)\n    updated_at = fields.DatetimeField(auto_now=True)\n    album_photos = fields.ReverseRelation[\"AlbumPhoto\"]",
+        "detail": "server.dump.models",
+        "documentation": {}
+    },
+    {
+        "label": "Album",
+        "kind": 6,
+        "importPath": "server.dump.models",
+        "description": "server.dump.models",
+        "peekOfCode": "class Album(Model):\n    id = fields.IntField(pk=True)\n    user = fields.ForeignKeyField(\"models.User\", related_name=\"albums\")\n    name = fields.CharField(max_length=255)\n    title = fields.CharField(max_length=255)\n    description = fields.TextField(null=True)\n    created_at = fields.DatetimeField(auto_now_add=True)\n    updated_at = fields.DatetimeField(auto_now=True)\n    album_photos = fields.ReverseRelation[\"AlbumPhoto\"]\nclass AlbumPhoto(Model):",
+        "detail": "server.dump.models",
+        "documentation": {}
+    },
+    {
+        "label": "AlbumPhoto",
+        "kind": 6,
+        "importPath": "server.dump.models",
+        "description": "server.dump.models",
+        "peekOfCode": "class AlbumPhoto(Model):\n    id = fields.IntField(pk=True)\n    album = fields.ForeignKeyField(\"models.Album\", related_name=\"album_photos\")\n    photo = fields.ForeignKeyField(\"models.Photo\", related_name=\"album_photos\")\n    created_at = fields.DatetimeField(auto_now_add=True)",
+        "detail": "server.dump.models",
+        "documentation": {}
+    }
+]

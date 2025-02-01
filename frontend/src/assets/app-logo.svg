@@ -1,0 +1,13 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="50" height="100">
+  <!-- カメラの本体 -->
+  <rect x="10" y="25" width="80" height="50" rx="10" ry="10" fill="#1976D2" />
+  <!-- カメラのレンズ -->
+  <circle cx="50" cy="50" r="20" fill="white" />
+  <!-- レンズの中心部分 -->
+  <circle cx="50" cy="50" r="10" fill="#1976D2" />
+  <!-- レンズの反射を表す細い円 -->
+  <circle cx="50" cy="50" r="5" fill="white" opacity="0.6" />
+  <!-- カメラのシャッター部分 -->
+  <circle cx="25" cy="30" r="4" fill="white" />
+</svg>

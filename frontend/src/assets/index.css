@@ -1,0 +1,7 @@
+
+/* ダークモード時にv-imgにフィルタを適用しない */
+@media (prefers-color-scheme: dark) {
+  .v-img {
+    filter: none;
+  }
+}

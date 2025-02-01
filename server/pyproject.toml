@@ -1,0 +1,63 @@
+[tool.poetry]
+name = "Photo App"
+version = "0.1.0"
+description = "photo app server"
+license = "MIT"
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+fastapi = "^0.115.5"
+uvicorn = "^0.32.0"
+cloudinary = "^1.41.0"
+httpx = "^0.27.2"
+python-dotenv = "^1.0.1"
+taskipy = "^1.14.0"
+prisma = "^0.15.0"
+asyncio = "^3.4.3"
+prisma-client = "^0.2.1"
+pydantic = "^2.10.1"
+python-multipart = "^0.0.17"
+tortoise-orm = "^0.22.0"
+databases = "^0.9.0"
+aerich = "^0.7.2"
+firebase-admin = "^6.6.0"
+pyyaml = "^6.0.2"
+peewee = "^3.17.8"
+peewee-migrate = "^1.13.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.3"
+
+
+[tool.aerich]
+tortoise_orm = "app.config.TORTOISE_ORM"
+location = "./migrations"
+src_folder = "./."
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+
+[tool.taskipy.tasks]
+# サーバーを起動するタスク
+# poetry run task serveで実行
+serve = "uvicorn app.main:app --reload"
+
+# テストを実行するタスク
+test = "pytest"
+
+# コードのフォーマットを整えるタスク
+format = "black ."
+
+# 型チェックを行うタスク
+typecheck = "mypy app"
+
+# リンターを実行するタスク
+lint = "flake8 app"
+
+# peeweeでマイグレーションするタスク
+migrate = "python -m peewee_migrate migrate --database=sqlite:///dev.db"
+

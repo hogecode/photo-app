@@ -1,0 +1,79 @@
+//ToDo:色々設定見直す(特にフォーマッター、リンター)
+
+{
+    // Pythonのインタープリターのパスを指定（仮想環境を使用している場合はそのパス）
+    "python.pythonPath": "C:\\Users\\shun1\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\photo_app-38XkEkIw-py3.13\\Scripts\\python.exe",
+    "python.autoComplete.environment": "C:\\Users\\shun1\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\photo_app-38XkEkIw-py3.13\\Scripts\\python.exe",
+
+
+    // PythonのフォーマッターにBlackを使用（FastAPIプロジェクト向け）
+    "python.formatting.provider": "black",
+  
+    // Pythonのインポートを整理するためにisortを使用
+    "python.sortImports.path": "isort",
+  
+    // FastAPIの開発時にエラーメッセージやデバッグ情報を見やすくする
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylintArgs": [
+      "--disable=all",
+      "--enable=E,W,C"
+    ],
+    "python.linting.flake8Args": [
+      "--max-line-length=120"
+    ],
+  
+    // VS Code内でのTypeScriptの設定
+    "javascript.validate.enable": false,  // Vue.jsにおいてはTypeScriptを使用するため、JavaScriptの検証を無効化
+    "typescript.validate.enable": true,   // TypeScriptを有効化
+  
+    // Vueのファイルにおけるシンタックスハイライトをサポート
+    "files.associations": {
+      "*.vue": "vue"
+    },
+  
+    // SCSSやCSSのインデント設定
+    "scss.validate": true,
+    "css.validate": true,
+  
+    // SCSSを含むCSSファイルに対して、拡張機能を有効化
+    "editor.insertSpaces": true,
+  
+    // FastAPI用のPythonコード補完を強化する
+    "python.autoComplete.addBrackets": true,
+    
+    // Vue.jsの開発時に保存時に自動フォーマットを有効化
+    "editor.formatOnSave": true,
+  
+    // ファイル保存時に自動的にインデントを調整する
+    "editor.formatOnSaveMode": "file",
+    
+    // 保存時に自動でESLintのエラーを修正
+    "eslint.autoFixOnSave": true, 
+
+    "eslint.useESLintClass": true,
+    
+    // コードのインデントに2スペースを使用
+    "editor.tabSize": 2,
+  
+  // ESLint による自動修正
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.fixAll.eslint": "explicit"
+  },
+
+  // Prettier をフォーマッターとして使用
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  // 保存時に ESLint を適用（エラー解消を自動で行う）
+  "eslint.alwaysShowStatus": true,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "vue"
+  ],
+  }
+  

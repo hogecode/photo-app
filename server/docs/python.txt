@@ -1,0 +1,15 @@
+
+# Memo: poetry仮想環境エラー
+# なぜかvscodeのsettings.jsonの設定でpythonの仮想環境を認識できない
+# poetry env info --pathの値(下記)をインタープリタに指定
+# C:\Users\shun1\AppData\Local\pypoetry\Cache\virtualenvs\photo_app-rsq4DFNN-py3.13
+# vscodeの右下にpoetryと表示されていれば問題ない
+
+# Memo: cp932(shiftJISエラー)
+# import locale; print(locale.getpreferredencoding())で確認
+# cp922と表示された場合
+# コントロールパネル→地域→管理→システムロケールの変更
+
+# peeweeで試してみる
+# poetry run pip installで実行した
+# poetry run python -m peewee_migrate migrate --database=sqlite:///example.db

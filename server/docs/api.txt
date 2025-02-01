@@ -1,0 +1,61 @@
+
+Images
+POST　
+/api/images/upload/
+Upload Image
+{
+    "id": 19,
+    "url": "http://res.cloudinary.com/da00u4w4c/image/upload/v1732962729/uploads/9/logo.png.png",
+    "title": "logo.png"
+}
+
+
+GET
+/api/images/user/photos/
+Get User Photos List
+{
+    "photos": [
+        {
+            "id": 6,
+            "url": "http://res.cloudinary.com/da00u4w4c/image/upload/v1732697041/uploads/jjmqcq64ogctfvhtwvtz.png",
+            "title": "Uploaded Image"
+        },
+        {
+            "id": 7,
+            "url": "http://res.cloudinary.com/da00u4w4c/image/upload/v1732698226/uploads/im72lhpfzcis3i98qxdz.png",
+            "title": "Uploaded Image"
+        }
+    ]
+}
+
+PUT
+/api/images/photo/{photo_id}
+Replace Image
+
+DELETE
+/api/images/photo/{photo_id}/delete/soft
+Delete Photo
+
+DELETE
+/api/images/photo/{photo_id}/delete/force/
+Force Delete Photo
+
+
+User
+POST
+/api/user/register
+Register User
+
+DELETE
+/api/user/
+Remove User
+
+
+default
+GET
+/
+Root
+
+GET
+/users
+Get Users
