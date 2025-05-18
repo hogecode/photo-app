@@ -1,26 +1,31 @@
 # photo_app
 
-FirebaseAuthとCloudinaryを使い、認証機能を持つだけの画像アプリです。Vue.jsとFastAPIを学習して一か月未満の頃に、これらのフレームワークや外部サービスとの連携の練習を兼ねて一週間ほどで適当に作っただけのアプリです。~~まだ作りかけで、一部の機能しか実装できていません。(一応API自体はある程度書きましたが・・・) あくまで練習用のアプリなので、今後このアプリの開発に時間を割くことはないと思います。~~
+FirebaseAuthとCloudinaryを使い、認証機能を持つだけの画像アプリです。Vue.jsとFastAPIを学習して一か月未満の頃に、これらのフレームワークや外部サービスとの連携の練習を兼ねて一週間ほどで適当に作っただけのアプリです。
+
+~~まだ作りかけで、一部の機能しか実装できていません。(一応API自体はある程度書きましたが・・・) あくまで練習用のアプリなので、今後このアプリの開発に時間を割くことはないと思います。~~
 
 また、フロントエンドはFirebase hosting、バックエンドはHerokuにデプロイ予定ですが、まだ出来ていません・・・。
 
-![一覧画面](photos/list.png)
-![詳細画面](photos/detail.png)
+<img style="width: 65%;" src="photos/list.png" alt="一覧画面"/>
+</br>
+<img style="width: 65%;" src="photos/detail.png" alt="詳細画面"/>
 
 ### 機能
 
 #### フロントエンド
 
-フロントエンドはTS + Vue.js + Vuetifyを使いました。また、グローバル状態管理はpinia、ルーティングはvue router、画像表示はcropper.jsを使いました。今までは認証機能はバックエンド側でJWTを使って簡易的に実装しており、FirebaseAuthやCognito + Amplifyのようにフロントエンド中心で実装したことがなかったため、アクセストークンやリフレッシュトークンの管理に少し手間取りました。
+フロントエンドはTS + Vue.js + Vuetifyを使いました。また、グローバル状態管理はpinia、ルーティングはvue router、画像表示はcropper.jsを使いました。
+
+今までは認証機能はバックエンド側でJWTを使って簡易的に実装しており、FirebaseAuthやCognito + Amplifyのようにフロントエンド中心で実装したことがなかったため、アクセストークンやリフレッシュトークンの管理に少し手間取りました。
 
 以下は実装した機能の例です。
 - firebaseAuthを使ったバリデーション付きのユーザー登録、ログイン画面
 - ログイン成功・失敗時、画像アップロード時のフラッシュメッセージ
 - デバイスの状態に応じてダークモード切替
 
-![一覧画面](photos/register.png)
-![一覧画面](photos/login.png)
-
+<img style="width: 65%;" src="photos/register.png" alt="登録画面"/>
+</br>
+<img style="width: 65%;" src="photos/login.png" alt="ログイン画面"/>
 
 #### バックエンド
 
@@ -32,11 +37,12 @@ FirebaseAuthとCloudinaryを使い、認証機能を持つだけの画像アプ�
 - 画像データをもとに、DBにメタデータを保存する機能
 - 論理削除、物理削除API (フロントエンドは未実装)
 
-![一覧画面](photos/oas.png)
+<img style="width: 65%;" src="photos/oas.png" alt="OAS"/>
 
 #### データベース
 
 開発段階では簡易的にSQLite、本番環境ではHerokuを使うので必然的にPostgreSQLを使う予定です。RDBはMySQLしか使ったことがありませんが、Herokuが大体の設定をしてくれるのであまり問題はないかと思います。
+
 また、ORMはTortoiseORMを使いました。当初はNode.js環境で慣れているPrismaORMを使うことも考えましたが、せっかくなので非同期処理中心のTortoiseORMを覚えてみました。
 
 #### 感想
