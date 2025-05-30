@@ -10,6 +10,63 @@ FirebaseAuthとCloudinaryを使い、認証機能を持つだけの画像アプ�
 </br>
 <img style="width: 65%;" src="photos/detail.png" alt="詳細画面"/>
 
+### 利用手順
+
+#### サーバーの起動
+
+1. PythonとPoetryのインストール
+
+```bash
+curl -sSL https://install.python-poetry.org | python3 -
+```
+
+2. ライブラリのインストール
+
+```bash
+poetry install
+```
+
+3. 環境変数ファイルの設定
+
+ここでは、CloudinaryやRDBの設定を行います。
+
+```bash
+cp .env.example .env
+```
+
+4. DBのマイグレーションの実行
+
+```bash
+poetry run task migrate
+```
+
+5. サーバーの起動
+```bash
+poetry run task serve
+```
+
+#### フロントエンドの起動
+
+1. ライブラリのインストール
+
+```bash
+npm install
+```
+
+2. 環境変数ファイルの設定
+
+ここでは、Firebaseの設定を行います。
+
+```bash
+cp .env.example .env
+```
+
+3. Vueの起動
+
+```bash
+npm run serve
+```
+
 ### 機能
 
 #### フロントエンド
